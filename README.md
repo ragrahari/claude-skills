@@ -65,7 +65,7 @@ Claude will ask a few clarifying questions if context is missing, then produce a
 1. Problem Statement
 2. Requirements (functional + NFRs)
 3. Capacity Estimation
-4. High-Level Architecture (with diagram)
+4. High-Level Architecture (with diagram, if you have connected tools)
 5. Data Modeling
 6. API Design
 7. Scalability & NFR Mapping
